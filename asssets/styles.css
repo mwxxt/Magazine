@@ -1,0 +1,13 @@
+p.red {
+    color : red;
+    font-size : 20px;
+}
+
+h1#article-title{
+    font-family: Georgia,serif;
+    color: #00852a;
+}
+
+body{
+    background-color: #b37dff;
+}
